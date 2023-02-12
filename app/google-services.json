@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176812046145",
+    "project_id": "testnotificationchat-c7122",
+    "storage_bucket": "testnotificationchat-c7122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176812046145:android:a5c4e7caba49a2602913c0",
+        "android_client_info": {
+          "package_name": "com.example.testchatnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176812046145-ab1ufttmhuhdnqi4qtulnf7bi2gsle32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhRq4cUyxu5OlNK709yrNhT7A7-kf4bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176812046145-ab1ufttmhuhdnqi4qtulnf7bi2gsle32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
